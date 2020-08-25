@@ -6,7 +6,9 @@ class Chart extends StatelessWidget {
     return Card(
       elevation: 6,
       margin: EdgeInsets.all(20),
-      child: hello,
+      child: Row(
+        children: <Widget>[],
+      ),
     );
   }
 }
