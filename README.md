@@ -1,6 +1,7 @@
 # expense_planner
 
 A new Flutter application.
+Flutter Practice
 
 ## Getting Started
 
